@@ -3,3 +3,4 @@ Gitの練習
 git add　でファイルをステージングエリアへ
 git commit -m "メッセージ"でコミットします。
 git rm　でファイルを削除します。
+git status　はgitの応対を確認できます。
